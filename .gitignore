@@ -1,0 +1,6 @@
+# Sensitive files
+includes/db_connect.php
+
+# OS files
+.DS_Store
+*.log
